@@ -6,4 +6,4 @@
 Este es un repositorio público para la clase de Bases de Datos Relacionales en el cual estare compartiendo mis trabajos y tareas. 
 
 ## Índice 
-- [Tarea1](Tarea1/hola.md)
+- [Tarea1](Tarea1/Tarea1.md)
