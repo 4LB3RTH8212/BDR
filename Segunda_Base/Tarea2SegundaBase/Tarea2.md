@@ -3,7 +3,7 @@
 ## BD. Predicción de la segmentación de clientes de tarjetas de crédito
 
 ```mermaid
-flowchart TD
+Flowchart TD
     1[TablaCliente]
     1 --- A([IdPersona])
     A --- a{{Entero > 0}}
@@ -65,6 +65,9 @@ V --- v{{Entero > 0}}
 W --- w{{Entero > 0}}
 4 ---X([vphonenumber])
 X --- x{{"Texto(10)"}}
+
+
+
 ```
 ## Recursos.
 
