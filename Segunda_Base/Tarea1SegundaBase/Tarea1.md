@@ -13,13 +13,13 @@ A continuación mostrare algunas de las tablas con algunas de sus variables esto
 
 |Saldos Cartera | Descripción |
 | ----------- | ----------- |
-|Id Solicitud	|Identificador único para cada solicitud de crédito. (int)||
 |Id Credito	|Identificador único para cada crédito perteneciente a un cliente (int)||
 |IdPersona	|Identificador único para cada cliente. (int)||
 |Nombre	|Nombre del cliente (Varchar)|
 |Monto|Monto Capital solicitado. (decimal)|
 |Monto Total|Monto Total a Pagar. (decimal)|
 |Pagos|Numero de pagos a realizar  (int)|
+|Pago Requerido|Cantidad a pagar por frecuencia (decimal)|
 |Amort. Pagadas|Numero de pagos realizados (int)|
 |Total Pagado	|La Suma total de los pagos recibidos (decimal)|
 |Saldo Total|Saldo Pendiente del crédito (decimal)|
