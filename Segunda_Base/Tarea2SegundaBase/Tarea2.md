@@ -1,6 +1,6 @@
 # Tarea 2: Modelo Entidad Relación
 
-## BD. Predicción de la segmentación de clientes de tarjetas de crédito
+## BD. Saldos Cartera Go Credit
 
 ```mermaid
 flowchart TD
