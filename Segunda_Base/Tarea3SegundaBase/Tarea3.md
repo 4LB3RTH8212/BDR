@@ -1,4 +1,4 @@
-# **Tarea 3**
+# **Tarea 3 : Modelo Relacional y Operaciones de Álgebra Relacional.**
 
 ## **Parte 1: Esquema del modelo relacional**
 
