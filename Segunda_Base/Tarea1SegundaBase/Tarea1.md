@@ -36,8 +36,8 @@ A continuación mostrare algunas de las tablas con algunas de sus variables esto
 |Referencias | Descripción |
 | ----------- | ----------- |
 |IdPersona	|Identificador único para cada cliente. (int)||
-|Referencia|Nombre de la persona que esta como referencia (int)||
-|RELACION|Relacion personal de la referencia con la persona (int)||
+|Referencia|Nombre de la persona que esta como referencia (char50)||
+|RELACION|Relacion personal de la referencia con la persona (char20)||
 |vphonenumber|Numero de telefono o celular de la persona (char10)|
 
 
@@ -45,7 +45,7 @@ A continuación mostrare algunas de las tablas con algunas de sus variables esto
 | ----------- | ----------- |
 |Id Credito|Identificador único para cada crédito perteneciente a un cliente (int)||
 |Id Pago|Identificador único para cada pago perteneciente a un créditp (int)||
-|Origen de Movimiento|Origen del movimiento si fue por lista,domiciliado, referencia es decir el canal de pago(int)||
+|Origen de Movimiento|Origen del movimiento si fue por lista,domiciliado, referencia es decir el canal de pago(char20)||
 |Fecha Pago|Fecha del pago(date)|
 |Fecha Aplicación|Fecha en la que se aplico el pago en sistema(date)|
 |Pago|Cantidad Pagada(decimal)|

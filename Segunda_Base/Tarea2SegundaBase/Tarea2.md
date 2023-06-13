@@ -36,7 +36,7 @@ L --- l{{Date}}
 2 ---M([Frecuencia])
 M --- m{{"Texto(20)"}}
 2 ---N([vScoreBuro])
-N --- n{{Date}}
+N --- n{{int > 0}}
 2 ---Ñ([Pago Requerido])
 Ñ --- ñ{{Decimal > 0}}
 
@@ -46,7 +46,7 @@ N --- n{{Date}}
 3 ---P([Id Pago])
 P --- p{{Entero > 0}}
 3 ---Q([Origen de Movimiento])
-Q --- q{{Entero > 0}}
+Q --- q{{"Texto(30)"}}
 3 ---R([Fecha Pago])
 R --- r{{Date}}
 3 ---S([Fecha Aplicación])
@@ -60,9 +60,9 @@ T --- t{{Decimal > 0}}
 4 ---U([IdReferencia])
 U --- u{{Entero > 0}}
 4 ---V([Referencia])
-V --- v{{Entero > 0}}
+V --- v{{"Texto(50)"}}
 4 ---W([RELACION])
-W --- w{{Entero > 0}}
+W --- w{{"Texto(20)"}}
 4 ---X([vphonenumber])
 X --- x{{"Texto(10)"}}
 ```
