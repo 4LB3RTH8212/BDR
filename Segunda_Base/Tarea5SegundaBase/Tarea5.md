@@ -1,6 +1,6 @@
 # **Tarea 5**
 
-## **Parte 1: Agregar datos de manera automática**
+## **Parte 1: Inserción de datos**
 
 Lo primero que realice fue generar la informacion atraves de una herramienta la cual nos dieron a conocer durante clases. Esta es *Filldb.info*, en la cual tenemos que poner la estructura de las tablas de las cuales generara información. Esto nos genera un archivo.sql por cada tabla, solo tenemos que juntar todas las sentencias Insert Into.
 
@@ -8,7 +8,7 @@ Una vex con el script final la forma en la que cargue los datos fue atraves de l
 luego utilice source C:\Users\Go Credit\Desktop\FCFM\1TetraMCD\Total Registros 15-06-2023 18-33.sql y con esto los datos fueron insertados en mi base
 
 
-## **Parte 2: Hallazgos, dificultades, recomendaciones o recursos relevantes**
+## **Parte 2: Hallazgos, dificultades o recursos relevantes**
 
 1. Desde un inicio que quise utilizar la consola de comandos de Visual Studio no podia esto ya que se abria en automatico un powershell, unicamente para abrir una consola cmd era al momento de abrir una nueva consola seleccionar la opcion GitBash.
 
@@ -20,7 +20,7 @@ luego utilice source C:\Users\Go Credit\Desktop\FCFM\1TetraMCD\Total Registros 1
 
 
 
-## **Parte 3: Autoevaluación y evaluación de mis compañeros**
+## **Parte 3: Autoevaluación y exploracion de Repositorios del Grupo **
 
 Considero yo que no tuve muchas dificultades en entender los conceptos sin embargo la practica no la realice mucho, tambien como mi base inicial no se parecia me atrase con las tareas, sin embargo desde el cambio de base ya practique mas. Lo que si considero es que mi orden y estructura de las tareas es agradable a la vista ya que considero que no te pierdes buscando la informacion.
 
