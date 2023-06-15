@@ -11,4 +11,4 @@ Este es un repositorio público para la clase de Bases de Datos Relacionales en 
 - [Tarea2Nueva](Segunda_Base/Tarea2SegundaBase/Tarea2.md): Modelo Entidad Relación Go Credit
 - [Tarea3Nueva](Segunda_Base/Tarea3SegundaBase/Tarea3.md): Modelo Relacional y Operaciones de Álgebra Relacional.
 - [Tarea4Nueva](Segunda_Base/Tarea4SegundaBase/Tarea4.sql): Creación de Base de Datos
-- [Tarea5Nueva](Segunda_Base/Tarea5SegundaBase/Tarea5.md): Creación de Base de Datos
+- [Tarea5Nueva](Segunda_Base/Tarea5SegundaBase/Tarea5.md): Inserción de datos, dificultades y autoevaluación 
