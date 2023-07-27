@@ -164,7 +164,29 @@ DELETE FROM tablacliente
 WHERE IdCliente = 142;
 
 Query OK, 1 row affected (0.01 sec)
-
-
 ```
-- Para el segundo caso corregimos la columna.
+
+- Para el segundo caso corregimos la columna completa.
+
+```mysql
+UPDATE TablaCredito
+SET Monto_Total = Pagos * Pago_Requerido
+WHERE Monto_Total <> Pagos * Pago_Requerido;
+
+Query OK, 670 rows affected (0.06 sec)
+Rows matched: 670  Changed: 670  Warnings: 0
+```
+- Para el último caso corregimos las filas que cumples la condicion.
+
+```mysql
+UPDATE TablaCredito
+SET FDesembolso = NULL
+WHERE FDesembolso <= '2005-01-01';
+
+Query OK, 418 rows affected (0.02 sec)
+Rows matched: 418  Changed: 418  Warnings: 0
+```
+
+## **_Hallazgos o Dificultades Encontradas_**
+
+Ya que mis tablas no contaban con una gran cantidad de columnas y operaciones entre si fue dificil imaginar inconsistencias que pudiera tener la base de datos, asi que opte por proponer casos hipoteticos como el que la empresa empezo en 2005. Me gusto trabajar con transacciones ya que se podia revertir el trabajo en caso de que algo pudiera haber salido mal, no estaba familiarizado como funcionaba pero esta tarea al practicar me ayudo a entender el concepto.
