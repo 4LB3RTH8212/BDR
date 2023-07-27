@@ -1,6 +1,6 @@
 # **Tarea 8**
 
-## **_Creacion de diferentes vistas con diferentes tipos de Join_**
+## **_Creación de diferentes vistas con diferentes tipos de Join_**
 
 - En esta Primera consulta nos llevamos varias columnas de interes de la TablaCredito con un Join
 

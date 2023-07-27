@@ -13,3 +13,5 @@ Este es un repositorio público para la clase de Bases de Datos Relacionales en 
 - [Tarea4Nueva](Segunda_Base/Tarea4SegundaBase/Tarea4.sql): Creación de Base de Datos.
 - [Tarea5Nueva](Segunda_Base/Tarea5SegundaBase/Tarea5.md): Inserción de datos, dificultades y autoevaluación.
 - [Tarea6Nueva](Segunda_Base/Tarea6/Tarea6.md): Cálculos mediante funciones de agregación.
+- [Tarea7Nueva](Segunda_Base/Tarea7SegundaBase/Tarea7.md): Revisión de inconsistencias y correciones en BD
+- [Tarea8Nueva](Segunda_Base/Tarea8SegundaBase/Tarea8.md): Creación de diferentes vistas y Trigger
